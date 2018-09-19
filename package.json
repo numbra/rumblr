@@ -1,0 +1,29 @@
+{
+  "name": "rumblr-3",
+  "version": "3.0.0",
+  "description": "Rumblr for Xbox 360 controllers",
+  "main": "main.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penumbra420/Rumblr-3.git"
+  },
+  "keywords": [
+    "rumblr",
+    "rumble",
+    "xbox 360 Controller"
+  ],
+  "author": "Penumbra420",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penumbra420/Rumblr-3/issues"
+  },
+  "homepage": "https://github.com/penumbra420/Rumblr-3#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "lodash": "^4.17.10",
+    "node-hid": "^0.7.2"
+  }
+}
